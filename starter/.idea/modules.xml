@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/starter.iml" filepath="$PROJECT_DIR$/.idea/modules/starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/starter.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/starter.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/starter.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/starter.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/starter.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/starter.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/starter.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/starter.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/starter.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/starter.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/starter.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/starter.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/starter.core.test.iml" filepath="$PROJECT_DIR$/.idea/modules/core/starter.core.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/starter.main.iml" filepath="$PROJECT_DIR$/.idea/modules/starter.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/starter.test.iml" filepath="$PROJECT_DIR$/.idea/modules/starter.test.iml" />
+    </modules>
+  </component>
+</project>
