@@ -14,11 +14,11 @@ class NewsRepository(private val newsAPI: NewsAPI) {
                 NetworkResult.Success(responseBody)
             }
             else {
-                NetworkResult.Error("Someting went wrong")
+                NetworkResult.Error("Something went wrong")
             }
         }
         else{
-            NetworkResult.Error("Someting went wrong")
+            NetworkResult.Error("Something went wrong")
         }
     }
 }
